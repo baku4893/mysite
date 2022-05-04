@@ -1,0 +1,7 @@
+baseURL = "http://example.org/"
+languageCode = "ja"
+title = "いろいろ"
+theme="simple-style"
+defaultContentLanguage="ja"
+hasCJKLanguage=true
+mainSections=["blog"]
