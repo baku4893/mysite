@@ -5,5 +5,5 @@ theme="simple-style"
 defaultContentLanguage="ja"
 hasCJKLanguage=true
 mainSections=["blog"]
-keywords=["123","456"]
+keywords="123"
 subtitle="123"
