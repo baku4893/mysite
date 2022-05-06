@@ -6,10 +6,20 @@
     <description>Recent content on いろいろ</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Wed, 04 May 2022 13:22:42 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 07 May 2022 04:53:00 +0900</lastBuildDate>
     
 	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Test</title>
+      <link>http://example.org/blog/test/</link>
+      <pubDate>Sat, 07 May 2022 04:53:00 +0900</pubDate>
+      
+      <guid>http://example.org/blog/test/</guid>
+      <description>rgergjeogeirgsr
+rhrthrthrthrthrt hrthrthrthrthrth trhr th rth r th rt hr th rthrt h rt hrt h rth rt h rt h rth rt h rth rt h rt h</description>
+    </item>
     
     <item>
       <title>B</title>
