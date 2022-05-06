@@ -5,3 +5,6 @@ theme="simple-style"
 defaultContentLanguage="ja"
 hasCJKLanguage=true
 mainSections=["blog"]
+
+[param]
+subtitle="備忘録的なサイト（てきとう"
