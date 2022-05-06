@@ -5,5 +5,7 @@ theme="simple-style"
 defaultContentLanguage="ja"
 hasCJKLanguage=true
 mainSections=["blog"]
+
+[params]
 keywords="123"
 subtitle="123"
