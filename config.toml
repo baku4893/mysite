@@ -7,5 +7,5 @@ hasCJKLanguage=true
 mainSections=["blog"]
 
 [params]
-keywords="123"
 subtitle = "Sub title of the site"
+description = "456ervwrfvervserverve"
