@@ -8,4 +8,4 @@ mainSections=["blog"]
 
 [params]
 keywords="123"
-subtitle="123"
+subtitle = "Sub title of the site"
