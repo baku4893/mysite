@@ -4,8 +4,3 @@ title = "いろいろ"
 theme="simple-style"
 defaultContentLanguage="ja"
 hasCJKLanguage=true
-mainSections=["blog"]
-
-[params]
-subtitle = "Sub title of the site"
-description = "456ervwrfvervserverve"
