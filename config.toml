@@ -5,3 +5,5 @@ theme="simple-style"
 defaultContentLanguage="ja"
 hasCJKLanguage=true
 mainSections=["blog"]
+keywards=["123","456"]
+subtitle="123"

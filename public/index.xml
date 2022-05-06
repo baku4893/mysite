@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>いろいろ</title>
-    <link>http://example.org/</link>
+    <link>https://baku4893.netlify.app/</link>
     <description>Recent content on いろいろ</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <lastBuildDate>Sat, 07 May 2022 04:53:00 +0900</lastBuildDate>
     
-	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://baku4893.netlify.app/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Test</title>
-      <link>http://example.org/blog/test/</link>
+      <link>https://baku4893.netlify.app/blog/test/</link>
       <pubDate>Sat, 07 May 2022 04:53:00 +0900</pubDate>
       
-      <guid>http://example.org/blog/test/</guid>
+      <guid>https://baku4893.netlify.app/blog/test/</guid>
       <description>rgergjeogeirgsr
 rhrthrthrthrthrt hrthrthrthrthrth trhr th rth r th rt hr th rthrt h rt hrt h rth rt h rt h rth rt h rth rt h rt h</description>
     </item>
     
     <item>
       <title>B</title>
-      <link>http://example.org/blog/b/</link>
+      <link>https://baku4893.netlify.app/blog/b/</link>
       <pubDate>Wed, 04 May 2022 13:22:42 +0900</pubDate>
       
-      <guid>http://example.org/blog/b/</guid>
+      <guid>https://baku4893.netlify.app/blog/b/</guid>
       <description>efpwfepgoerpogkerpogkerpogkerpogkerpogkeprogrek
 earpogkeporgkpeaokrgpoaekr
 earpogkeprokgrepogkepkg erpgkeprogkrepogkperokgp;;; peokfeporkeporkgpeorkgpeok</description>
