@@ -4,7 +4,7 @@ title = "いろいろ(仮)"
 theme="simple-style"
 defaultContentLanguage="ja"
 hasCJKLanguage=true
-mainSections=[""]
+mainSections=["blog"]
 
 [param]
 subtitle="備忘録的なサイト（てきとう"
