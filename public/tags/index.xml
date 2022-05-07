@@ -6,28 +6,9 @@
     <description>Recent content in Tags on いろいろ(仮)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Sat, 07 May 2022 04:53:00 +0900</lastBuildDate>
     
 	<atom:link href="https://baku4893.netlify.app/tags/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>123</title>
-      <link>https://baku4893.netlify.app/tags/123/</link>
-      <pubDate>Sat, 07 May 2022 04:53:00 +0900</pubDate>
-      
-      <guid>https://baku4893.netlify.app/tags/123/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>456</title>
-      <link>https://baku4893.netlify.app/tags/456/</link>
-      <pubDate>Sat, 07 May 2022 04:53:00 +0900</pubDate>
-      
-      <guid>https://baku4893.netlify.app/tags/456/</guid>
-      <description></description>
-    </item>
     
   </channel>
 </rss>
