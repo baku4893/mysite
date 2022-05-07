@@ -6,5 +6,9 @@ defaultContentLanguage="ja"
 hasCJKLanguage=true
 mainSections=["blog"]
 
+[taxonomies]
+  tag = "tags"
+  category = "categories"
+
 [param]
 subtitle="備忘録的なサイト（てきとう"
