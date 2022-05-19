@@ -2,21 +2,21 @@ baseURL = "https://baku4893.netlify.app/"
 languageCode = "ja"
 title = "いろいろ(仮)"
 #theme="Mainroad"
-theme="blackburn"
+#theme="blackburn"
 #theme="hugo-theme-hulga"
 #theme="hugo-theme-pure"
-#theme="inkblotty"
+theme="inkblotty"
 #theme="simple-style"
 defaultContentLanguage="ja"
 hasCJKLanguage=true
 mainSections=["blog"]
 
 [taxonomies]
-  tag = "tags"
-  category = "categories"
+	tag = "tags"
+	category = "categories"
 
-[param]
-subtitle="備忘録的なサイト（てきとう"
+[params]
+readmore = true
 
 #[menu]
 #  # Shown in the side menu.
