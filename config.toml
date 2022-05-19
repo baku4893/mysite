@@ -2,8 +2,23 @@ baseURL = "https://baku4893.netlify.app/"
 languageCode = "ja"
 title = "いろいろ(仮)"
 theme="inkblotty"
-#defaultContentLanguage="ja"
+defaultContentLanguage="ja"
 hasCJKLanguage=true
 
-#[params]
-#	readmore = true
+[permalinks]
+	post = "/:slug/"
+	page = "/:slug/"
+
+[taxonomies]
+	tag = "tags"
+	category = "categories"
+	archive = "archives"
+
+[params]
+	readmore = true
+
+[[menu.main]]
+	identifier = "about"
+	name = "About"
+	url = "/about/"
+	weight = 1
