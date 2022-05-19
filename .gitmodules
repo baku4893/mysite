@@ -1,3 +1,33 @@
 [submodule "themes/simple-style"]
 	path = themes/simple-style
 	url = https://github.com/yanlinlin82/simple-style
+[submodule "themes/blackburn"]
+	path = themes/blackburn
+	url = https://github.com/yoshiharuyamashita/blackburn
+[submodule "themes/hugo-theme-bootstrap"]
+	path = themes/hugo-theme-bootstrap
+	url = https://github.com/razonyang/hugo-theme-bootstrap
+[submodule "themes/hugo-theme-fuji"]
+	path = themes/hugo-theme-fuji
+	url = https://github.com/dsrkafuu/hugo-theme-fuji
+[submodule "themes/hugo-pacman-theme"]
+	path = themes/hugo-pacman-theme
+	url = https://github.com/coderzh/hugo-pacman-theme
+[submodule "themes/hugo-theme-pure"]
+	path = themes/hugo-theme-pure
+	url = https://github.com/xiaoheiAh/hugo-theme-pure
+[submodule "themes/Blonde"]
+	path = themes/Blonde
+	url = https://github.com/opera7133/Blonde
+[submodule "themes/hugo-theme-hulga"]
+	path = themes/hugo-theme-hulga
+	url = https://github.com/wlh320/hugo-theme-hulga
+[submodule "themes/inkblotty"]
+	path = themes/inkblotty
+	url = https://github.com/tosi29/inkblotty
+[submodule "themes/Mainroad"]
+	path = themes/Mainroad
+	url = https://github.com/Vimux/Mainroad
+[submodule "themes/hugo-theme-stack"]
+	path = themes/hugo-theme-stack
+	url = https://github.com/CaiJimmy/hugo-theme-stack

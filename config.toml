@@ -1,7 +1,7 @@
 baseURL = "https://baku4893.netlify.app/"
 languageCode = "ja"
 title = "いろいろ(仮)"
-theme="simple-style"
+theme="blackburn"
 defaultContentLanguage="ja"
 hasCJKLanguage=true
 mainSections=["blog"]
