@@ -1,42 +1,9 @@
 baseURL = "https://baku4893.netlify.app/"
 languageCode = "ja"
 title = "いろいろ(仮)"
-#theme="Mainroad"
-#theme="blackburn"
-#theme="hugo-theme-hulga"
-#theme="hugo-theme-pure"
 theme="inkblotty"
-#theme="simple-style"
-defaultContentLanguage="ja"
+#defaultContentLanguage="ja"
 hasCJKLanguage=true
-mainSections=["blog"]
 
-[taxonomies]
-	tag = "tags"
-	category = "categories"
-
-[params]
-readmore = true
-
-#[menu]
-#  # Shown in the side menu.
-#  [[menu.main]]
-#    name = "Home"
-#    weight = 1
-#    identifier = "home"
-#    url = "/"
-#  [[menu.main]]
-#    name = "Posts"
-#    weight = 2
-#    identifier = "post"
-#    url = "/post/"
-#  [[menu.main]]
-#    name = "About"
-#    weight = 3
-#    identifier = "about"
-#    url = "/about/"
-#  [[menu.main]]
-#    name = "Contact"
-#    pre = "<i class='fa fa-phone fa-fw'></i>"
-#    weight = 4
-#    url = "/contact/"
+#[params]
+#	readmore = true
