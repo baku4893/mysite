@@ -36,4 +36,10 @@ hasCJKLanguage=true
 	url = "/about/"
 	weight = 3
 
+[[menu.main]]
+	identifier = "test"
+	name = "test"
+	url = "/test/"
+	weight = 4
+
 #git add .;git commit -m "update";git push
