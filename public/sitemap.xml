@@ -3,16 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://baku4893.netlify.app/about/</loc>
-    <lastmod>2022-05-20T03:33:27+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://baku4893.netlify.app/</loc>
-    <lastmod>2022-05-20T03:33:27+09:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://baku4893.netlify.app/categories/</loc>
     <lastmod>2022-05-07T04:53:00+09:00</lastmod>
   </url>
@@ -28,7 +18,12 @@
   </url>
   
   <url>
-    <loc>https://baku4893.netlify.app/post/%E6%9C%80%E5%88%9D%E3%81%AE%E8%A8%98%E4%BA%8B/</loc>
+    <loc>https://baku4893.netlify.app/</loc>
+    <lastmod>2022-05-07T04:53:00+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://baku4893.netlify.app/%E6%9C%80%E5%88%9D%E3%81%AE%E8%A8%98%E4%BA%8B/</loc>
     <lastmod>2022-05-07T04:53:00+09:00</lastmod>
   </url>
   
@@ -40,6 +35,14 @@
   <url>
     <loc>https://baku4893.netlify.app/categories/%E6%9C%AA%E5%88%86%E9%A1%9E/</loc>
     <lastmod>2022-05-07T04:53:00+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://baku4893.netlify.app/about/</loc>
+  </url>
+  
+  <url>
+    <loc>https://baku4893.netlify.app/archives/</loc>
   </url>
   
 </urlset>

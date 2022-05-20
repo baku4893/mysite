@@ -24,11 +24,10 @@ hasCJKLanguage=true
 	weight = 1
 	
 [[menu.main]]
-	identifier = "blog"
-	name = "blog"
-	url = "/blog/"
+	identifier = "post"
+	name = "post"
+	url = "/post/"
 	weight = 2
-
 
 [[menu.main]]
 	identifier = "about"
