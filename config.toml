@@ -25,13 +25,13 @@ hasCJKLanguage=true
 	
 [[menu.main]]
 	identifier = "posts"
-	name = "posts"
+	name = "ブログ"
 	url = "/post/"
 	weight = 2
 
 
 [[menu.main]]
 	identifier = "about"
-	name = "About"
+	name = "about"
 	url = "/about/"
 	weight = 3
