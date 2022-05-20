@@ -25,7 +25,7 @@ hasCJKLanguage=true
 	
 [[menu.main]]
 	identifier = "posts"
-	name = "ブログ"
+	name = "ブログ記事"
 	url = "/post/"
 	weight = 2
 
