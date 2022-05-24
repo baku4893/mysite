@@ -5,6 +5,7 @@ theme="inkblotty"
 defaultContentLanguage="ja"
 hasCJKLanguage=true
 pluralizeListTitles = false
+sectionPagesMenu = "main"
 
 [permalinks]
 	post = "/:slug/"
@@ -19,15 +20,15 @@ pluralizeListTitles = false
 	readmore = true
 
 [[menu.main]]
-	identifier = "blog"
-	name = "ブログ"
-	url = "/blog/"
-	weight =1
+        identifier = "post"
+        name = "post"
+        url = "/post/"
+        weight = 1
 
 [[menu.main]]
 	identifier = "購入物"
 	name = "購入物"
-	url = "/購入物/"
+	url = "/categories/購入物/"
 	weight = 2
 
 [[menu.main]]
