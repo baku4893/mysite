@@ -4,6 +4,7 @@ title = "いろいろ(仮)"
 theme="inkblotty"
 defaultContentLanguage="ja"
 hasCJKLanguage=true
+pluralizeListTitles = false
 
 [permalinks]
 	post = "/:slug/"
@@ -19,19 +20,25 @@ hasCJKLanguage=true
 
 [[menu.main]]
 	identifier = "blog"
-	name="ブログ"
-	url = "/"
-	weight = 1
+	name = "ブログ"
+	url = "/blog/"
+	weight =1
 
 [[menu.main]]
-        identifier = "purchases"
-        name = "買ったもの"
-        url = "/purchases/"
-        weight = 2
+	identifier = "購入物"
+	name = "購入物"
+	url = "/購入物/"
+	weight = 2
 
 [[menu.main]]
 	identifier = "about"
 	name = "about"
 	url = "/about/"
 	weight = 3
+
+[[menu.main]]
+	identifier = "RSS"
+	name = "RSS"
+	url = "/index.xml"
+	weight = 4
 #git add .;git commit -m "update";git push

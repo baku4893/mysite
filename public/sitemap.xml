@@ -3,12 +3,12 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://baku4893.netlify.app/categories/</loc>
+    <loc>https://baku4893.netlify.app/</loc>
     <lastmod>2022-05-24T09:15:45+09:00</lastmod>
   </url>
   
   <url>
-    <loc>https://baku4893.netlify.app/purchases/</loc>
+    <loc>https://baku4893.netlify.app/categories/</loc>
     <lastmod>2022-05-24T09:15:45+09:00</lastmod>
   </url>
   
@@ -18,22 +18,22 @@
   </url>
   
   <url>
-    <loc>https://baku4893.netlify.app/</loc>
-    <lastmod>2022-05-24T09:15:45+09:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://baku4893.netlify.app/tags/%E6%9C%AA%E5%88%86%E9%A1%9E/</loc>
     <lastmod>2022-05-24T09:15:45+09:00</lastmod>
   </url>
   
   <url>
-    <loc>https://baku4893.netlify.app/categories/%E8%B2%B7%E3%81%A3%E3%81%9F%E3%82%82%E3%81%AE/</loc>
+    <loc>https://baku4893.netlify.app/categories/%E8%B3%BC%E5%85%A5%E7%89%A9/</loc>
     <lastmod>2022-05-24T09:15:45+09:00</lastmod>
   </url>
   
   <url>
-    <loc>https://baku4893.netlify.app/purchases/%E8%B2%B7%E3%81%A3%E3%81%9F%E3%82%82%E3%81%AE%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6/</loc>
+    <loc>https://baku4893.netlify.app/%E8%B3%BC%E5%85%A5%E7%89%A9/</loc>
+    <lastmod>2022-05-24T09:15:45+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://baku4893.netlify.app/%E8%B3%BC%E5%85%A5%E7%89%A9/%E8%B3%BC%E5%85%A5%E7%89%A9%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6/</loc>
     <lastmod>2022-05-24T09:15:45+09:00</lastmod>
   </url>
   
@@ -53,11 +53,11 @@
   </url>
   
   <url>
-    <loc>https://baku4893.netlify.app/archives/2022/05/</loc>
+    <loc>https://baku4893.netlify.app/about/</loc>
   </url>
   
   <url>
-    <loc>https://baku4893.netlify.app/about/</loc>
+    <loc>https://baku4893.netlify.app/archives/2022/05/</loc>
   </url>
   
   <url>
