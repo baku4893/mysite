@@ -18,6 +18,18 @@ hasCJKLanguage=true
 	readmore = true
 
 [[menu.main]]
+	identifier = "blog"
+	name="ブログ"
+	url = "/"
+	weight = 1
+
+[[menu.main]]
+        identifier = "purchases"
+        name = "買ったもの"
+        url = "/purchases/"
+        weight = 2
+
+[[menu.main]]
 	identifier = "about"
 	name = "about"
 	url = "/about/"
