@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>linux on いろいろ(仮)</title>
+    <title>linux on いろいろ備忘録(仮)</title>
     <link>https://baku4893.netlify.app/tags/linux/</link>
-    <description>Recent content in linux on いろいろ(仮)</description>
+    <description>Recent content in linux on いろいろ備忘録(仮)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <lastBuildDate>Sat, 28 May 2022 20:22:01 +0900</lastBuildDate>
@@ -13,10 +13,10 @@
     
     <item>
       <title>データ救出作業で救出したvhdとかをなんとか読み取れるようにしたかった</title>
-      <link>https://baku4893.netlify.app/%E3%83%87%E3%83%BC%E3%82%BF%E6%95%91%E5%87%BA%E4%BD%9C%E6%A5%AD%E3%81%A7%E6%95%91%E5%87%BA%E3%81%97%E3%81%9Fvhd%E3%81%A8%E3%81%8B%E3%82%92%E3%81%AA%E3%82%93%E3%81%A8%E3%81%8B%E8%AA%AD%E3%81%BF%E5%8F%96%E3%82%8C%E3%82%8B%E3%82%88%E3%81%86%E3%81%AB%E3%81%97%E3%81%9F%E3%81%8B%E3%81%A3%E3%81%9F/</link>
+      <link>https://baku4893.netlify.app/%E3%83%96%E3%83%AD%E3%82%B0/2022/05/28/%E3%83%87%E3%83%BC%E3%82%BF%E6%95%91%E5%87%BA%E4%BD%9C%E6%A5%AD%E3%81%A7%E6%95%91%E5%87%BA%E3%81%97%E3%81%9Fvhd%E3%81%A8%E3%81%8B%E3%82%92%E3%81%AA%E3%82%93%E3%81%A8%E3%81%8B%E8%AA%AD%E3%81%BF%E5%8F%96%E3%82%8C%E3%82%8B%E3%82%88%E3%81%86%E3%81%AB%E3%81%97%E3%81%9F%E3%81%8B%E3%81%A3%E3%81%9F/</link>
       <pubDate>Sat, 28 May 2022 20:22:01 +0900</pubDate>
       
-      <guid>https://baku4893.netlify.app/%E3%83%87%E3%83%BC%E3%82%BF%E6%95%91%E5%87%BA%E4%BD%9C%E6%A5%AD%E3%81%A7%E6%95%91%E5%87%BA%E3%81%97%E3%81%9Fvhd%E3%81%A8%E3%81%8B%E3%82%92%E3%81%AA%E3%82%93%E3%81%A8%E3%81%8B%E8%AA%AD%E3%81%BF%E5%8F%96%E3%82%8C%E3%82%8B%E3%82%88%E3%81%86%E3%81%AB%E3%81%97%E3%81%9F%E3%81%8B%E3%81%A3%E3%81%9F/</guid>
+      <guid>https://baku4893.netlify.app/%E3%83%96%E3%83%AD%E3%82%B0/2022/05/28/%E3%83%87%E3%83%BC%E3%82%BF%E6%95%91%E5%87%BA%E4%BD%9C%E6%A5%AD%E3%81%A7%E6%95%91%E5%87%BA%E3%81%97%E3%81%9Fvhd%E3%81%A8%E3%81%8B%E3%82%92%E3%81%AA%E3%82%93%E3%81%A8%E3%81%8B%E8%AA%AD%E3%81%BF%E5%8F%96%E3%82%8C%E3%82%8B%E3%82%88%E3%81%86%E3%81%AB%E3%81%97%E3%81%9F%E3%81%8B%E3%81%A3%E3%81%9F/</guid>
       <description>&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;find -type f|xargs -i qemu-img convert -O raw &lt;span style=&#34;color:#f92672&#34;&gt;{}&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;{}&lt;/span&gt;.img  
 &lt;span style=&#34;color:#75715e&#34;&gt;#それかこれみたいな感じで。&lt;/span&gt;  
 &lt;span style=&#34;color:#75715e&#34;&gt;#find -type f|xargs -i qemu-img convert -f vdi -O raw {} {}.img&lt;/span&gt;  

@@ -1,6 +1,6 @@
 baseURL = "https://baku4893.netlify.app/"
 languageCode = "ja"
-title = "いろいろ(仮)"
+title = "いろいろ備忘録(仮)"
 theme="inkblotty"
 defaultContentLanguage="ja"
 hasCJKLanguage=true
@@ -8,8 +8,8 @@ pluralizeListTitles = false
 sectionPagesMenu = "main"
 
 [permalinks]
-	post = "/:slug/"
-	page = "/:slug/"
+	"ブログ" = "/:section/:year/:month/:day/:slug"
+	"購入物" = "/:section/:year/:month/:day/:slug"
 
 [taxonomies]
 	tag = "tags"
@@ -20,22 +20,16 @@ sectionPagesMenu = "main"
 	readmore = true
 
 [[menu.main]]
-        identifier = "post"
-        name = "post"
-        url = "/post/"
+        identifier = "ブログ"
+        name = "ブログ"
+        url = "/ブログ/"
         weight = 1
 
 [[menu.main]]
 	identifier = "購入物"
 	name = "購入物"
-	url = "/categories/購入物/"
+	url = "/購入物/"
 	weight = 2
-
-[[menu.main]]
-	identifier = "about"
-	name = "about"
-	url = "/about/"
-	weight = 3
 
 [[menu.main]]
 	identifier = "RSS"

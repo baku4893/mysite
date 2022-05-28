@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>備忘録 on いろいろ備忘録(仮)</title>
-    <link>https://baku4893.netlify.app/categories/%E5%82%99%E5%BF%98%E9%8C%B2/</link>
-    <description>Recent content in 備忘録 on いろいろ備忘録(仮)</description>
+    <title>ブログ on いろいろ備忘録(仮)</title>
+    <link>https://baku4893.netlify.app/%E3%83%96%E3%83%AD%E3%82%B0/</link>
+    <description>Recent content in ブログ on いろいろ備忘録(仮)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <lastBuildDate>Sat, 28 May 2022 20:22:01 +0900</lastBuildDate>
     
-	<atom:link href="https://baku4893.netlify.app/categories/%E5%82%99%E5%BF%98%E9%8C%B2/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://baku4893.netlify.app/%E3%83%96%E3%83%AD%E3%82%B0/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -32,6 +32,16 @@ find -type f -iname &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;*.img&amp
 &lt;a href=&#34;https://blog.daionet.gr.jp/knok/2015/02/18/handling-broken-disk/&#34;&gt;https://blog.daionet.gr.jp/knok/2015/02/18/handling-broken-disk/&lt;/a&gt;&lt;br&gt;
 &lt;a href=&#34;https://qiita.com/spicemanjp/items/1998a3f68cb369651584&#34;&gt;https://qiita.com/spicemanjp/items/1998a3f68cb369651584&lt;/a&gt;&lt;br&gt;
 &lt;a href=&#34;https://oplern.hatenablog.com/entry/2017/07/01/164004&#34;&gt;https://oplern.hatenablog.com/entry/2017/07/01/164004&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>最初の記事</title>
+      <link>https://baku4893.netlify.app/%E3%83%96%E3%83%AD%E3%82%B0/2022/05/07/%E6%9C%80%E5%88%9D%E3%81%AE%E8%A8%98%E4%BA%8B/</link>
+      <pubDate>Sat, 07 May 2022 04:53:00 +0900</pubDate>
+      
+      <guid>https://baku4893.netlify.app/%E3%83%96%E3%83%AD%E3%82%B0/2022/05/07/%E6%9C%80%E5%88%9D%E3%81%AE%E8%A8%98%E4%BA%8B/</guid>
+      <description>&lt;p&gt;自分のサイトを持ってみたくなったのと、気が向いたのでネット上で公開されてるテンプレ使いつつ、テキトーに作った&lt;/p&gt;
+&lt;p&gt;ブログ自体ははてなブログのほうで既にやってるので、こっちは備忘録っぽい使い方をメインにするつもりでいる&lt;/p&gt;</description>
     </item>
     
   </channel>
