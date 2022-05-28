@@ -3,18 +3,43 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://baku4893.netlify.app/</loc>
-    <lastmod>2022-05-24T09:15:45+09:00</lastmod>
+    <loc>https://baku4893.netlify.app/categories/</loc>
+    <lastmod>2022-05-28T20:22:01+09:00</lastmod>
   </url>
   
   <url>
-    <loc>https://baku4893.netlify.app/categories/</loc>
-    <lastmod>2022-05-24T09:15:45+09:00</lastmod>
+    <loc>https://baku4893.netlify.app/tags/linux/</loc>
+    <lastmod>2022-05-28T20:22:01+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://baku4893.netlify.app/post/</loc>
+    <lastmod>2022-05-28T20:22:01+09:00</lastmod>
   </url>
   
   <url>
     <loc>https://baku4893.netlify.app/tags/</loc>
-    <lastmod>2022-05-24T09:15:45+09:00</lastmod>
+    <lastmod>2022-05-28T20:22:01+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://baku4893.netlify.app/</loc>
+    <lastmod>2022-05-28T20:22:01+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://baku4893.netlify.app/tags/%E3%83%87%E3%83%BC%E3%82%BF%E6%95%91%E5%87%BA/</loc>
+    <lastmod>2022-05-28T20:22:01+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://baku4893.netlify.app/%E3%83%87%E3%83%BC%E3%82%BF%E6%95%91%E5%87%BA%E4%BD%9C%E6%A5%AD%E3%81%A7%E6%95%91%E5%87%BA%E3%81%97%E3%81%9Fvhd%E3%81%A8%E3%81%8B%E3%82%92%E3%81%AA%E3%82%93%E3%81%A8%E3%81%8B%E8%AA%AD%E3%81%BF%E5%8F%96%E3%82%8C%E3%82%8B%E3%82%88%E3%81%86%E3%81%AB%E3%81%97%E3%81%9F%E3%81%8B%E3%81%A3%E3%81%9F%E6%99%82%E3%81%AE%E3%83%A1%E3%83%A2/</loc>
+    <lastmod>2022-05-28T20:22:01+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://baku4893.netlify.app/categories/%E5%82%99%E5%BF%98%E9%8C%B2/</loc>
+    <lastmod>2022-05-28T20:22:01+09:00</lastmod>
   </url>
   
   <url>
@@ -30,16 +55,6 @@
   <url>
     <loc>https://baku4893.netlify.app/%E8%B3%BC%E5%85%A5%E7%89%A9/</loc>
     <lastmod>2022-05-24T09:15:45+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://baku4893.netlify.app/%E8%B3%BC%E5%85%A5%E7%89%A9/%E8%B3%BC%E5%85%A5%E7%89%A9%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6/</loc>
-    <lastmod>2022-05-24T09:15:45+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://baku4893.netlify.app/post/</loc>
-    <lastmod>2022-05-07T04:53:00+09:00</lastmod>
   </url>
   
   <url>

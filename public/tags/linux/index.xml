@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>いろいろ(仮)</title>
-    <link>https://baku4893.netlify.app/</link>
-    <description>Recent content on いろいろ(仮)</description>
+    <title>linux on いろいろ(仮)</title>
+    <link>https://baku4893.netlify.app/tags/linux/</link>
+    <description>Recent content in linux on いろいろ(仮)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <lastBuildDate>Sat, 28 May 2022 20:22:01 +0900</lastBuildDate>
     
-	<atom:link href="https://baku4893.netlify.app/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://baku4893.netlify.app/tags/linux/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -32,34 +32,6 @@ find -type f -iname &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;*.img&amp
 &lt;a href=&#34;https://blog.daionet.gr.jp/knok/2015/02/18/handling-broken-disk/&#34;&gt;https://blog.daionet.gr.jp/knok/2015/02/18/handling-broken-disk/&lt;/a&gt;&lt;br&gt;
 &lt;a href=&#34;https://qiita.com/spicemanjp/items/1998a3f68cb369651584&#34;&gt;https://qiita.com/spicemanjp/items/1998a3f68cb369651584&lt;/a&gt;&lt;br&gt;
 &lt;a href=&#34;https://oplern.hatenablog.com/entry/2017/07/01/164004&#34;&gt;https://oplern.hatenablog.com/entry/2017/07/01/164004&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>購入物</title>
-      <link>https://baku4893.netlify.app/%E8%B3%BC%E5%85%A5%E7%89%A9/</link>
-      <pubDate>Tue, 24 May 2022 09:15:45 +0900</pubDate>
-      
-      <guid>https://baku4893.netlify.app/%E8%B3%BC%E5%85%A5%E7%89%A9/</guid>
-      <description>&lt;p&gt;なんとなくこういうのもいいかなって思ったので、&lt;br&gt;
-今後買ったものについて、ここに感想とか書いていくつもり。&lt;br&gt;
-ただ、必ず書くとは限らない。&lt;br&gt;
-参考にしてもらうつもりもないし、&lt;br&gt;
-ひたすら自分が書きたい時に書きたいように書いていていくのみ(˘ω˘)&lt;/p&gt;
-&lt;p&gt;買ったものは、よく写真を撮ってたりすることが多いんだけど、&lt;br&gt;
-購入記録的な意味だったり、あとになって同じものや似たものがほしいとなったときのための参考的な意味で撮ってたりする&lt;br&gt;
-けど、ほんとにその写真を探し出したいときになかなか見つからないなんてこともある&lt;br&gt;
-かといってわざわざパソコンのどこかに写真を移すのも面倒というか、やっても結局ごちゃごちゃになってどこにあるか余計わからなくなったりして続きそうにないから、&lt;br&gt;
-いっそのことこのブログを有効活用して、ブログ書く感覚でやってみてもいいかなって。&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>最初の記事</title>
-      <link>https://baku4893.netlify.app/%E6%9C%80%E5%88%9D%E3%81%AE%E8%A8%98%E4%BA%8B/</link>
-      <pubDate>Sat, 07 May 2022 04:53:00 +0900</pubDate>
-      
-      <guid>https://baku4893.netlify.app/%E6%9C%80%E5%88%9D%E3%81%AE%E8%A8%98%E4%BA%8B/</guid>
-      <description>&lt;p&gt;自分のサイトを持ってみたくなったのと、気が向いたのでネット上で公開されてるテンプレ使いつつ、テキトーに作った&lt;/p&gt;
-&lt;p&gt;ブログ自体ははてなブログのほうで既にやってるので、こっちは備忘録っぽい使い方をメインにするつもりでいる&lt;/p&gt;</description>
     </item>
     
   </channel>

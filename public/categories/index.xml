@@ -6,10 +6,19 @@
     <description>Recent content in Categories on いろいろ(仮)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Tue, 24 May 2022 09:15:45 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 28 May 2022 20:22:01 +0900</lastBuildDate>
     
 	<atom:link href="https://baku4893.netlify.app/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>備忘録</title>
+      <link>https://baku4893.netlify.app/categories/%E5%82%99%E5%BF%98%E9%8C%B2/</link>
+      <pubDate>Sat, 28 May 2022 20:22:01 +0900</pubDate>
+      
+      <guid>https://baku4893.netlify.app/categories/%E5%82%99%E5%BF%98%E9%8C%B2/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>購入物</title>
